@@ -65,8 +65,8 @@ SNS
 Work Experience (Full-time)
 -------
 ### Landel,inc
-【Period】2024/02 - Present
-【Business Description】Game development on platforms such as Roblox and UEFN
+【Period】2024/02 - Present  
+【Business Description】Game development on platforms such as Roblox and UEFN  
 【Number of Employees at the Time】2
 
 #### Affiliation and Position
@@ -86,7 +86,7 @@ Work Experience (Side Projects)
 -------
 ### DEVLOX
 【Period】2024/08 - Present  
-【Business Description】Financial support for individual Roblox creators (DEVLOX Creative Studio)
+【Business Description】Financial support for individual Roblox creators (DEVLOX Creative Studio)  
 【Number of Employees at the Time】30
 
 #### Projects
@@ -99,7 +99,7 @@ Work Experience (Side Projects)
 
 ### AlcheStudio
 【Period】2024/01 - Present  
-【Business Description】UE5 and UEFN content development
+【Business Description】UE5 and UEFN content development  
 【Number of Employees at the Time】15
 
 #### Projects
@@ -113,7 +113,7 @@ Work Experience (Side Projects)
 
 ### GeekOut K.K × GLITCHA RAVE
 【Period】2025/02 - Present  
-【Business Description】[ONI PANI](https://x.com/Misositaworks/status/1876924304383672533) development
+【Business Description】[ONI PANI](https://x.com/Misositaworks/status/1876924304383672533) development  
 【Number of Employees at the Time】7
 
 #### Projects
@@ -128,8 +128,8 @@ Work Experience (Side Projects)
 Internship
 -------
 ### AnachroJapan contract company (Part-time)
-【Period】2022/04 - 2023/04
-【Business Description】Mobile game development
+【Period】2022/04 - 2023/04  
+【Business Description】Mobile game development  
 【Number of Employees at the Time】7
 
 #### Projects
@@ -140,8 +140,8 @@ Internship
 <br>
 
 ### Flamers,inc. (Full-time)
-【Period】2023/03 - 2023/12
-【Business Description】Metaverse Matching App Service
+【Period】2023/03 - 2023/12  
+【Business Description】Metaverse Matching App Service  
 【Number of Employees at the Time】20
 
 #### Projects
@@ -152,8 +152,8 @@ Internship
 <br>
 
 ### Knowledge Work inc. (3Days)
-【Period】2023/06/21 - 2023/06/23
-【Business Description】Sales Marketing Service
+【Period】2023/06/21 - 2023/06/23  
+【Business Description】Sales Marketing Service  
 【Number of Employees at the Time】100
 
 #### Projects
@@ -164,8 +164,8 @@ Internship
 <br>
 
 ### CyberAgent,inc. (2Weeks)
-【Period】2023/08/22 - 2023/09/01
-【Business Description】Media & IP Business, Internet Advertising Business, Game Business
+【Period】2023/08/22 - 2023/09/01  
+【Business Description】Media & IP Business, Internet Advertising Business, Game Business  
 【Number of Employees at the Time】6000
 
 #### Projects
@@ -176,8 +176,8 @@ Internship
 <br>
 
 ### ambr,inc. (Part-time)
-【Period】2025/03/01 - Present
-【Business Description】Metaverse Business, Roblox Game Development
+【Period】2025/03/01 - Present  
+【Business Description】Metaverse Business, Roblox Game Development  
 【Number of Employees at the Time】50
 
 #### Projects
