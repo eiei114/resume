@@ -108,6 +108,7 @@ Work Experience (Side Projects)
 |[JAPANESE ZOMBIE SURVIVAL](https://prtimes.jp/main/html/rd/p/000000020.000045116.html)|2024/02 - 2024/04|Verse|Unreal Engine for Fortnite|Engineer|7|Developed game systems.|
 |[Escape from Fortnite](https://prtimes.jp/main/html/rd/p/000000022.000045116.html)|2024/05 - 2024/07|Verse|Unreal Engine for Fortnite|Engineer|7|Developed game systems.|
 |[Matsukensan II Rise Up the World](https://prtimes.jp/main/html/rd/p/000000026.000045116.html)|2024/07 - 2024/10|Verse|Unreal Engine for Fortnite|Engineer|7|Developed game systems.|
+|Secret Project|2024/12 - Present|Verse|Unreal Engine for Fortnite|Engineer|7|Currently developing the game.|
 
 <br>
 
