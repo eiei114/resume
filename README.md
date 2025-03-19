@@ -214,7 +214,7 @@ Media Coverage
 |Date|Article|
 |---|---|
 |2023/4|[Offers Q&A "Notion Usage Methods for Product Development Personnel"](https://prtimes.jp/main/html/rd/p/000000103.000053307.html)|
-|2022/7|[Knowledge of "Verse", a programming language available in UEFN, comes together. Report on "UEFN.Tokyo Study Meeting 03 Verse Night"](https://gamemakers.jp/article/2024_02_22_60790/)|
+|2024/4|[Knowledge of "Verse", a programming language available in UEFN, comes together. Report on "UEFN.Tokyo Study Meeting 03 Verse Night"](https://gamemakers.jp/article/2024_02_22_60790/)|
 
 <br>
 
